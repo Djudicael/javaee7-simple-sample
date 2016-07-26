@@ -17,7 +17,7 @@ public class PersonDatabase {
         persons = Arrays.asList(
                 new Person("Penny"), 
                 new Person("Leonard"), 
-                new Person("Sheldon"), 
+                new Person("Judi"), 
                 new Person("Amy"), 
                 new Person("Howard"), 
                 new Person("Bernadette"), 
