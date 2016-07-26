@@ -12,8 +12,8 @@ public class Person {
     public Person() {
     }
 
-    public Person(String name) {
-        this.name = name;
+    public Person(String nom) {
+        this.name = nom;
     }
     
     public String getName() {
